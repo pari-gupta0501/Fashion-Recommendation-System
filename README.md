@@ -103,6 +103,9 @@ Input Image	Top Recommended Matches
 
 Note: Images shown here are placeholders.
 
+<img width="501" height="400" alt="image" src="https://github.com/user-attachments/assets/807809b6-da6a-4315-806a-b98c189e6af2" />
+
+
 ---
 
 ## 🧠 Model & Dataset Options
